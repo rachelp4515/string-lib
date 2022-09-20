@@ -1,6 +1,8 @@
 # This is library of helpful string functions
 Created for ACS class 3310 at Dominican University by Rachel Porhammer
 
+[npm](https://www.npmjs.com/package/@rachelp4515/string-library)
+
 ### **capitalize(str)**
 Takes in a string and returns it with the first letter capitalized.
 
